@@ -1,0 +1,8 @@
+2018-05-12 17:21:25 u93598351 0Ek4eQ-1eXYlh3bgG-00op0d |< REMOTE=73.186.254.91 SCRIPT=/rsvp.php -- /usr/sbin/sendmail -t -i
+2018-05-12 17:21:25 u93598351 0Ek4eQ-1eXYlh3bgG-00op0d WW invalid sender address: " "
+2018-05-12 17:21:25 u93598351 0Ek4eQ-1eXYlh3bgG-00op0d <= S=cgi-mailer-bounces-737754466@perfora.net SZ=752 D=0 SID=737754466
+2018-05-12 17:21:25 u93598351 0Ek4eQ-1eXYlh3bgG-00op0d => rikapwedding@gmail.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0Lch1d-1eXrcI3gnv-00k6WQ
+2018-05-12 17:31:40 u93598351 0DlOve-1ewcHQ3nmG-00PJtC |< REMOTE=73.186.254.91 SCRIPT=/rsvp.php -- /usr/sbin/sendmail -t -i
+2018-05-12 17:31:40 u93598351 0DlOve-1ewcHQ3nmG-00PJtC WW invalid sender address: " "
+2018-05-12 17:31:40 u93598351 0DlOve-1ewcHQ3nmG-00PJtC <= S=cgi-mailer-bounces-737754466@perfora.net SZ=928 D=0 SID=737754466
+2018-05-12 17:31:41 u93598351 0DlOve-1ewcHQ3nmG-00PJtC => rikapwedding@gmail.com msmtp.perfora.net[172.19.143.3] 250 Requested mail action okay, completed: id=0MOyGH-1fBGih3wHf-006KfT
